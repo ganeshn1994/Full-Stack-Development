@@ -1,0 +1,22 @@
+{
+  "name": "exercise",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/ganeshn1994/Full-Stack-Development.git).git"
+  },
+  "author": "ganesh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ganeshn1994/Full-Stack-Development.git)/issues"
+  },
+  "homepage": "https://github.com/ganeshn1994/Full-Stack-Development.git)#readme",
+  "devDependencies": {
+    "lite-server": "^2.3.0"
+  }
+}
